@@ -3,6 +3,7 @@ This is a basic tutorial to show you the concepts behind Migrate and make it a l
 
 # Files
 The file structure consists of:  
+```
 migrate_cats/  
 migrate_cats/migrate_cats.info  
 migrate_cats/migrate_cats.module  
@@ -10,6 +11,7 @@ migrate_cats/migrate_cats.migrate.inc
 migrate_cats/cats.inc  
 migrate_cats/xml/  
 migrate_cats/xml/cats.xml  
+```
 
 # hook_migrate_api()
 file: migrate_cats.migrate.inc  
@@ -48,5 +50,7 @@ http://btmash.com/article/2011-02-25/migrating-content-using-migrate-module
 
 ## Migrate Examples
 Migrate has great examples that are slightly daunting for first timers and light coders. I would recommend this last after you've completed the other tutorials. Look in the migrate folder:  
+```
 sites/all/modules/migrate_example  
 sites/all/modules/migrate_example_baseball  
+```
