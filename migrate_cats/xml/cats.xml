@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cats>
+	<cat>
+		<felineid>0001</felineid>
+		<name>Felix</name>
+		<age>2</age>
+	</cat>
+	<cat>
+		<felineid>0002</felineid>
+		<name>Grumpy</name>
+		<age>15</age>
+	</cat>
+</cats>

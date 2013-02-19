@@ -1,0 +1,13 @@
+name = "Migrate Cats"
+description = "Example Cat Migration." package = "Migration"
+core = 7.x
+
+dependencies[] = taxonomy
+dependencies[] = image
+dependencies[] = comment
+dependencies[] = migrate
+dependencies[] = list
+dependencies[] = number
+
+files[] = migrate_cats.module
+files[] = cats.inc
