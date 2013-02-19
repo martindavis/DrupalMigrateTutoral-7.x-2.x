@@ -36,3 +36,14 @@ class catNodeMigration extends Migration {
     return TRUE; }
   }
 ```
+
+# More Tutorials / Examples:  
+## XDEB Migration (2011)  
+Based on a slightly older version of Migrate, this tutorial will help ease you into building a practical migration:  
+http://xdeb.org/node/1539  
+
+## RedCat Migration (2011)  
+Another tutorial based on a slightly older version of Migrate, this is another tutorial to help you step into using Migrate.  
+
+## Migrate Examples
+Migrate has great examples that are slightly daunting for first timers and light coders. I would recommend this last after you've completed the other tutorials.  
