@@ -43,7 +43,8 @@ Based on a slightly older version of Migrate, this tutorial will help ease you i
 http://xdeb.org/node/1539  
 
 ## RedCat Migration (2011)  
-Another tutorial based on a slightly older version of Migrate, this is another tutorial to help you step into using Migrate.  
+Another tutorial based on a slightly older version of Migrate, this is another tutorial to help you step into using Migrate:  
+http://btmash.com/article/2011-02-25/migrating-content-using-migrate-module
 
 ## Migrate Examples
 Migrate has great examples that are slightly daunting for first timers and light coders. I would recommend this last after you've completed the other tutorials.  
