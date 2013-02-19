@@ -17,8 +17,8 @@ Array of information containing migrate version and migration paths your module 
 
 # catNodeMigration
 file: cats.inc  
-Migration path defintions defined as classes that extend the Migration class. construct() is always required along with everything in it. prepareRow() is optional, but useful for data manipulation. catNodeMigration path:  
-```
+Migration path defintions defined as classes that extend the Migration class. ```construct()``` is always required along with everything in it. ```prepareRow()``` is optional, but useful for data manipulation. catNodeMigration path:  
+```PHP
 <?php
 class catNodeMigration extends Migration {
   /* Set up migration / mapping */
