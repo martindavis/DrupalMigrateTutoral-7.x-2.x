@@ -47,4 +47,6 @@ Another tutorial based on a slightly older version of Migrate, this is another t
 http://btmash.com/article/2011-02-25/migrating-content-using-migrate-module
 
 ## Migrate Examples
-Migrate has great examples that are slightly daunting for first timers and light coders. I would recommend this last after you've completed the other tutorials.  
+Migrate has great examples that are slightly daunting for first timers and light coders. I would recommend this last after you've completed the other tutorials. Look in the migrate folder:  
+sites/all/modules/migrate_example  
+sites/all/modules/migrate_example_baseball  
